@@ -2,7 +2,8 @@
 
 Desenvolvedor full stack com experiência em React, Node.js e PostgreSQL, além de atuação em processamento de imagem, ciência de dados e engenharia de dados. Facinado por construir soluções completas, desde interfaces dinâmicas até a gestão e análise de dados.
 
-*  Modelo de Processamento de Imagem: Desenvolvi uma solução automatiza da para contagem de ovos de camarão utilizando técnicas de visão computacional. <br>
+*  Seduc: Atuo como desenvolvedor na Secretaria de Educação do Piauí, oferecendo suporte e aprimorando o sistema educacional, garantindo sua eficiência e continuidade operacional.
+*  Modelo de Processamento de Imagem: Desenvolvi uma solução automatizada para contagem de ovos de camarão utilizando técnicas de visão computacional. <br>
 *  Predição de Preços: Trabalhei em modelos preditivos para análise e previsão de preços no varejo, aplicados ao Grupo Mateus. <br>
 *  Sites Acadêmicos: Criação de sites personalizados para divulgação de projetos de doutorado, com foco em acessibilidade e responsividade. <br>
 *  Sistema Web de Gerenciamento: Desenvolvi um sistema completo para gestão de dados, oferecendo ferramentas eficientes para organização e acompanhamento de informações em tempo real.
