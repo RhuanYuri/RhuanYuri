@@ -24,7 +24,3 @@ Desenvolvedor full stack com experiência em React, Node.js e PostgreSQL, além 
 <code><img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Arduino.svg" alt="Arduino"> <img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Arduino"> <img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python"/> <img height="32" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NestJS-Dark.svg" alt="NestJS"/>
 <code>
 ---
-
-## ⭐ GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RhuanYuri&show_icons=true)
